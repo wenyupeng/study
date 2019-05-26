@@ -13,6 +13,7 @@
     <module>03spring_beanscope</module>
     <module>04spring_el</module>
     <module>05spring_prepost</module>
+      <module>06spring_synthemsize</module>
   </modules>
   <packaging>pom</packaging>
 
