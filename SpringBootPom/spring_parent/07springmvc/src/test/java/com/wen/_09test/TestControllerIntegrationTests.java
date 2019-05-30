@@ -1,6 +1,6 @@
 package com.wen._09test;
 
-import com.wen._01springmvc.MyMvcConfig;
+import com.wen.MyMvcConfig;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
