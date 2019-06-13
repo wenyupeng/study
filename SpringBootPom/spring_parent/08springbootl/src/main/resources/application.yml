@@ -1,0 +1,6 @@
+server:
+  port: 9091
+  servlet:
+    context-path: /helloboot
+#命令行参数配置
+# java -jar xx.jar --server.port=9090
